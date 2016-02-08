@@ -1,0 +1,28 @@
+name: 'LADY T '
+favicon: null
+layout_spectrum: 0.8907310822978616
+typography_spectrum: 0.1751354776788503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3097093121614307
+  lightness: 0.3365755605045706
+  saturation: 0.10406947694718838
+  rhythmicContrast: 0.672518472187221
+purpose: []
